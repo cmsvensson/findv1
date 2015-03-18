@@ -1,0 +1,1 @@
+This is Pythoncode that describes the function of a cell in primary visual cortex. The modeling is filter based and more information can be found at www.find-V1.org.
